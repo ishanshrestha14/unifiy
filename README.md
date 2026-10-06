@@ -329,6 +329,8 @@ npm run dev       # Start development server on port 3000
 npm run build     # Type-check with tsc, then build for production
 npm run preview   # Preview the production build locally
 npm run lint      # Run TypeScript type checking (tsc --noEmit)
+npm test          # Run the test suite once (Vitest + React Testing Library)
+npm run test:watch # Run tests in watch mode
 ```
 
 ---
